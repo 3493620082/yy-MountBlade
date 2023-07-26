@@ -1,4 +1,4 @@
-# yy-s-mount-blade
+yy-mount-blade
 =这是一个拙劣的骑砍模仿版，项目现已放弃开发，目前供参观学习使用。
 -所需python库：
 
